@@ -1,7 +1,6 @@
 # High_School_Projects
 here some of my projects during High school stage,
 
-
 ## Project1 ("Because you are sugar" (glucose measurement and diabetes awareness)) : https://youtu.be/zT0YQosPL4g (مشروع لانك سكر)
 by: Razan - Olowah - Lenda - Nourah.
 
